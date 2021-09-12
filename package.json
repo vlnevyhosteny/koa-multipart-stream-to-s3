@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/vlnevyhosteny/koa-multipart-stream-to-s3.git",
   "author": "vlnevyhosteny",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
 }
