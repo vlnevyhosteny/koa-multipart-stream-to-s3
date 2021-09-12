@@ -1,0 +1,9 @@
+{
+  "name": "koa-multipart-stream-to-s3",
+  "version": "1.0.0",
+  "description": "PoC of non blocking upload (stream) into S3 storage using Koa.js.",
+  "main": "index.js",
+  "repository": "https://github.com/vlnevyhosteny/koa-multipart-stream-to-s3.git",
+  "author": "vlnevyhosteny",
+  "license": "MIT"
+}
