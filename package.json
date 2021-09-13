@@ -7,6 +7,10 @@
   "author": "vlnevyhosteny",
   "license": "MIT",
   "dependencies": {
-    "koa": "^2.13.1"
+    "aws-sdk": "^2.987.0",
+    "formidable": "^1.2.2",
+    "koa": "^2.13.1",
+    "koa-router": "^10.1.1",
+    "s3-upload-stream": "^1.0.7"
   }
 }
